@@ -1,9 +1,10 @@
 {
-	"name": "crafting-interpreters",
-	"authors": [
-		"xtreak"
-	],
-	"description": "A sample interpreter based on the book crafting interpreters",
-	"copyright": "Copyright © 2017, xtreak",
-	"license": "proprietary"
+    "name": "crafting-interpreters",
+    "authors": [
+	"xtreak"
+    ],
+    "description": "A sample interpreter based on the book crafting interpreters",
+    "copyright": "Copyright © 2017, xtreak",
+    "license": "proprietary",
+    "targetPath" : "build"
 }
